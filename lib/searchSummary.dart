@@ -98,7 +98,7 @@ class _SearchSummaryState extends State<SearchSummary> {
                           '$AllSummaries ${documents1[i].get('summary')}';
                     });
                   }
-                  print("all summary ==" + AllSummaries);
+                 
                   // setState(() {
                   //     AllSummaries =
                   //         '$AllSummaries "';
