@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "376499987733",
+    "project_id": "memory-aid-32ddf",
+    "storage_bucket": "memory-aid-32ddf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376499987733:android:d9745afa844583c89f351c",
+        "android_client_info": {
+          "package_name": "com.example.memory_aid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "376499987733-f6nl2li85p1vtvl51875mt6m7mqa9gll.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6cs_famMzZvAWVulORbjRAD_hiVTyRgc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "376499987733-f6nl2li85p1vtvl51875mt6m7mqa9gll.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
