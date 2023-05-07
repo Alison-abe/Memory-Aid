@@ -9,6 +9,7 @@ import 'package:http/http.dart' as http;
 import 'dart:convert';
 
 Future<SummaryClass> createSummary(String title) async {
+  print("test");
   final response = await http.post(
     Uri.parse('https://flask-hello-world-u1yz.onrender.com/summarize'),
     headers: <String, String>{
