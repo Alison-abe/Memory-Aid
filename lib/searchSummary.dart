@@ -91,7 +91,7 @@ class _SearchSummaryState extends State<SearchSummary> {
                       }
                     }
                   }
-                  print(" database == "+documents1[0].get('summary') );
+                  
                   for (int i = 0; i < documents1.length; i++) {
                     setState(() {
                       AllSummaries =
